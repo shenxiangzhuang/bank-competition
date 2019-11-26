@@ -1,0 +1,9 @@
+XGBoost, Search, 306.152
+XGBoost, Train, 20.553
+XGBoost, Prediction, 0.16
+EasyEnsamble, Search, 1633.848
+EasyEnsamble, Train, 62.603
+EasyEnsamble, Prediction, 29.182
+BalancedEnsamble, Search, 1166.192
+BalancedEnsamble, Train, 81.818
+BalancedEnsamble, Prediction, 1.145
