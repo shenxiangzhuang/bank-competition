@@ -3,6 +3,8 @@
 
 ## 文件说明
 
+**presentation**: 展示
+**report**: 分析报告。
 **code**: Python源文件以及对应的Jupyter Notebook
 **data**: 原始数据和特征工程之后的数据(保存在features文件夹)
 **docs**: 日志数据及实验步骤记录
